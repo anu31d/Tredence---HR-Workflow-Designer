@@ -1,0 +1,6 @@
+{
+  "name": "HR Workflow Designer",
+  "description": "A high-fidelity visual designer for HR processes like onboarding and leave approvals, featuring a draggable canvas, dynamic node configuration, and a workflow simulation sandbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["workflow-automation", "visual-programming"]
+}
